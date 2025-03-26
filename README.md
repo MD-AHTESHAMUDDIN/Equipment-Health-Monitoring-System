@@ -1,5 +1,3 @@
-# Equipment-Health-Monitoring-System
-![image](https://github.com/Vijay-glitch495/Equipment-Health-Monitoring-System/assets/108282191/0ef3bea5-4e99-4184-9f19-4a32652dd4ab)
 
 ## Overview:
 This project focuses on predictive maintenance in industrial settings, specifically classifying types of failures based on sensor data. Using Jupyter Notebook for data analysis and modeling, Streamlit to deploy, and CRISP-DM for project organization, we aim to enhance machine reliability and reduce downtime through maintenance strategies.
